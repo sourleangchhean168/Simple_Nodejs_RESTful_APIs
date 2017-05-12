@@ -1,0 +1,33 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "Rest full todolistapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sourleangchhean168/NodeJSRestFullAPI.git"
+  },
+  "keywords": [
+    "Restfull",
+    "api",
+    "tutorail",
+    "js"
+  ],
+  "author": "Sour LeangChhean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourleangchhean168/NodeJSRestFullAPI/issues"
+  },
+  "homepage": "https://github.com/sourleangchhean168/NodeJSRestFullAPI#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.8"
+  }
+}
